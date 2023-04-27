@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gaeseori/static/css/main.eae0a777.css",
+    "main.js": "/gaeseori/static/js/main.3c855b4f.js",
+    "static/media/서울한강 장체L.ttf": "/gaeseori/static/media/서울한강 장체L.dbef33ff944dfa2bf7f9.ttf",
+    "static/media/서울한강 장체M.ttf": "/gaeseori/static/media/서울한강 장체M.e5cd106f2c306963194e.ttf",
+    "static/media/서울한강 장체B.ttf": "/gaeseori/static/media/서울한강 장체B.93bc740787f4139ff28d.ttf",
+    "static/media/NotoSansKR-Bold.otf": "/gaeseori/static/media/NotoSansKR-Bold.bad0e182b567b441991f.otf",
+    "static/media/NotoSansKR-Medium.otf": "/gaeseori/static/media/NotoSansKR-Medium.b0d5e046ad43b4c999c5.otf",
+    "static/media/NotoSansKR-Light.otf": "/gaeseori/static/media/NotoSansKR-Light.95195a319b540e00beb2.otf",
+    "static/media/dog.svg": "/gaeseori/static/media/dog.420ba675757c7fdc5bed8d82b68de7ff.svg",
+    "static/media/mail.svg": "/gaeseori/static/media/mail.b2bbb732c33da5e6d14fa4e515de415a.svg",
+    "static/media/back.svg": "/gaeseori/static/media/back.972e5f0dc13debed399ce36f13d1093b.svg",
+    "static/media/star-empty.svg": "/gaeseori/static/media/star-empty.f85c62893813718878685b3dba54d7dc.svg",
+    "static/media/human.svg": "/gaeseori/static/media/human.2686386d05f4fb1c48324a7ea8df8aaa.svg",
+    "static/media/lock.svg": "/gaeseori/static/media/lock.311417fc5b2d90205a5d8ed989324cf3.svg",
+    "index.html": "/gaeseori/index.html",
+    "static/media/star.svg": "/gaeseori/static/media/star.b6d399b011d86441a6be5dc4a4764ad3.svg",
+    "static/media/heart.svg": "/gaeseori/static/media/heart.0c1b1d9b9abf377ad1c8b5802c39c0c7.svg",
+    "static/media/pencil.svg": "/gaeseori/static/media/pencil.1c826ebcf5d0e199349d0eeb3985bbb4.svg",
+    "static/media/comment.svg": "/gaeseori/static/media/comment.e397dbbfb089fab4d0c17fb815bddac1.svg",
+    "static/media/save.svg": "/gaeseori/static/media/save.c82b82a1df6ad00956ab85071b83df0f.svg",
+    "main.eae0a777.css.map": "/gaeseori/static/css/main.eae0a777.css.map",
+    "main.3c855b4f.js.map": "/gaeseori/static/js/main.3c855b4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eae0a777.css",
+    "static/js/main.3c855b4f.js"
+  ]
+}
